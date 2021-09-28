@@ -6,7 +6,7 @@ https://colab.research.google.com/drive/1KQ8eZJ2yuWM8eJYMGSkDev4AtwyLKGXN?usp=sh
 ## Implement the breadth-first search (BTS) algorithm: 
 **`RAW CODE`**
 
-# Use a queue and visit adjacent nodes based off 
+`# Use a queue and visit adjacent nodes based off 
 # off of the starting nodes 
 # Breadth-First Search manner to find the shortest path 
 
@@ -62,7 +62,7 @@ if __name__ == "__main__":
     graph['Giurgiu'] = ['Bucharest']
      
     # Call shortest_path_BFS
-    shortest_path_BFS(graph, 'Sibiu', 'Bucharest')
+    shortest_path_BFS(graph, 'Sibiu', 'Bucharest')`
 ---
 ## Resources Used
 * https://www.geeksforgeeks.org/building-an-undirected-graph-and-finding-shortest-path-using-dictionaries-in-python/
