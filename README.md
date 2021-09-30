@@ -3,6 +3,6 @@
 # Artificial-Intelligence
 
 **Table of Contents** 
-- [Activites](Aactivites.md)
+- [Activites](Activities.md)
 - [Homework](Homework.md)
 
