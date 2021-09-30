@@ -5,4 +5,5 @@
 **Table of Contents** 
 - [Activites](Activities.md)
 - [Homework](Homework.md)
+- [Project](Homework.md)
 
