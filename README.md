@@ -4,7 +4,5 @@
 
 **Table of Contents** 
 - [Activites](Aactivites.md)
-- [Chapter homeworks](Chapter-homeworks.md)
-- [NN-using-TF](NN-using-TF.md)
-- [Project](Project.md)
-- [Schedule](Schedule.md)
+- [Homework](Homework.md)
+
