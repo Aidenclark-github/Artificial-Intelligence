@@ -6,5 +6,6 @@
 * Link: [Logistic regression](https://colab.research.google.com/drive/1QZVHqKMNgUa7Nfx_eB42ezVZY3XdUEPh?authuser=3#scrollTo=PocVzvS8rWTe)
 ---
 **Activity: Binary classification using tensorflow keras**
-* Link: [Binary classification](https://youtu.be/eyXynZTshP0?t=174)
+* Link: [Binary classification](https://colab.research.google.com/drive/1kifOYVnYcqseRlk-WwHQeCU-OFmCADh3?authuser=3#scrollTo=VtYRr44FFN_M)
+* Activity 3: Code not working with dataset, but commands are still correct. 
 ---
